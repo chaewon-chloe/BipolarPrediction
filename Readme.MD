@@ -2,7 +2,7 @@
 
 Project Description:
 
-#### Code lists
+### Code lists
 * __DataPreparation_Demographics.R:__ 
 * __VariableSelection.R:__
 * __Functions.R:__ Two manually implemented functions
