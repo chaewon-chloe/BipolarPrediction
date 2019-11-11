@@ -5,7 +5,7 @@ Project Description:
 ### Code lists
 * __DataPreparation_Demographics.R:__ 
 * __VariableSelection.R:__
-* __Functions.R:__ Two manually implemented functions
+* __Functions.R:__ Two manually implemented functions 
   * __SMOTE_data:__
   * __Divide_folds:__
 * __DNN.R:__ A Deep Nueral Network (DNN) model using Keras
