@@ -1,6 +1,6 @@
 ## Bipolar Prediction
 
-Project Description:
+Project Description: This project is to predict the suicidality of bipolar disorder I patients with their event-related potential (ERP) data. The ERPs were measured during a response inhibition paradigm (standard Go/NoGo tasks). Three machine learning algorithms - Support vector machine, XGboost, and linear discriminant analysis - were performed. 
 
 ### Code lists
 * __DataPreparation_Demographics.R:__ 
